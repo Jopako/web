@@ -6,6 +6,19 @@ Minha primeira aplicação web simples.
 
 Nossa equipe: 
 
--João Paulo
-
+* João Paulo 
+* 🐱‍🐉
+* 🐱‍💻
+ * 🐱‍👓
+ * 🐱‍🚀
+ * 🐱‍👤
+ 
+ Trecho de Código:
+ ```javascript
+ function enviar(
+    {
+        console.log("Enviando"...)
+    }
+ )
+```
 
