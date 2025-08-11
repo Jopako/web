@@ -35,33 +35,47 @@ body
 
 p 
 {
-  text-align: left;
+  text-align: center;
+}
+div{
+
+  text-align: center;
+  display: flex;
+  justify-content: center;
+
 }
 img
 {
+  display: flex;
+  justify-content: center;
   border: 8px solid brown;
   border-radius: 60%;
 }
-input[type="submit"]
+button
 {
+   font-family: "Archivo Black", sans-serif;
+  font-weight: 400;
+  font-style: normal;
 background-color: green;
-color: white;
-border: none;
-padding: 5px 10px;
-
+color: black;
+border: 0.5px solid black;
+padding: 2px;
+  
 }
-button:hover
+button:hover,
 input[type="submit"]:hover
 {
 background-color: green;
-color: white;
+color: black;
  }
 
 
-ul,li
+ul
 {
   font-size: 18px;
   color: white;
+  text-align: center;
+
 }
 
 a{
